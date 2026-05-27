@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Dhwani Puthran
 
-<!--
-**DhwaniPuthran/DhwaniPuthran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science Student  
+Turning data into meaningful insights through analytics and visualization.  
+Currently building skills in Python, Pandas, NumPy, SQL, and Machine Learning.  
+Passionate about solving real-world problems using data.
 
-Here are some ideas to get you started:
+⭐Skills
+- Python
+- Pandas
+- NumPy
+- SQL
+- Machine Learning Basics
+- Power BI
+- Excel
+- HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✍Currently Learning
+
+- Data Visualization
+- Machine Learning
+- Scikit-learn
+- Data Analytics
+
+🔗 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/dhwani-puthran-075b342a6/
